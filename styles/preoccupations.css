@@ -158,16 +158,16 @@ body {
 
 h1 {
   margin: auto;
-  color: #087F5B;
+  color: #6495ED;
   font-size: 3em;
   font-weight: bold;
   text-align: center; }
 
 strong {
-  color: #087F5B; }
+  color: #6495ED; }
 
 .link {
-  color: #087F5B;
+  color: #6495ED;
   font-weight: bold;
   text-decoration: none; }
 
@@ -334,7 +334,7 @@ ul.menu li.menu-item a {
 
 .animated-title > div.text-top {
   border-bottom: 1vmin solid #c8cbcf;
-  color: #087F5B;
+  color: #6495ED;
   top: 0; }
 
 .animated-title > div.text-top div {
@@ -525,25 +525,25 @@ ul.menu li.menu-item a {
   from, to {
     border-color: transparent; }
   50% {
-    border-color: #087F5B; } }
+    border-color: #6495ED; } }
 
 @-moz-keyframes blink-caret {
   from, to {
     border-color: transparent; }
   50% {
-    border-color: #087F5B; } }
+    border-color: #6495ED; } }
 
 @-o-keyframes blink-caret {
   from, to {
     border-color: transparent; }
   50% {
-    border-color: #087F5B; } }
+    border-color: #6495ED; } }
 
 @keyframes blink-caret {
   from, to {
     border-color: transparent; }
   50% {
-    border-color: #087F5B; } }
+    border-color: #6495ED; } }
 
 h2 {
   margin-bottom: 0; }
@@ -680,7 +680,7 @@ img {
   line-height: 80px;
   overflow: hidden;
   font-size: xx-large;
-  border-right: 8px solid #087F5B;
+  border-right: 8px solid #6495ED;
   margin: 0 auto;
   white-space: nowrap;
   letter-spacing: .15em;

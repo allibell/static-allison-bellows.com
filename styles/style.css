@@ -157,16 +157,16 @@ body {
 
 h1 {
   margin: auto;
-  color: #087F5B;
+  color: #6495ED;
   font-size: 3em;
   font-weight: bold;
   text-align: center; }
 
 strong {
-  color: #087F5B; }
+  color: #6495ED; }
 
 .link {
-  color: #087F5B;
+  color: #6495ED;
   font-weight: bold;
   text-decoration: none; }
 
@@ -333,7 +333,7 @@ ul.menu li.menu-item a {
 
 .animated-title > div.text-top {
   border-bottom: 1vmin solid #c8cbcf;
-  color: #087F5B;
+  color: #6495ED;
   top: 0; }
 
 .animated-title > div.text-top div {
