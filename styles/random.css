@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Ek+Mukta:200);
 @import url(https://fonts.googleapis.com/css?family=Roboto:700);
+@import url(https://fonts.googleapis.com/css?family=East+Sea+Dokdo);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
 @import url(https://fonts.googleapis.com/css?family=Ek+Mukta:200);
 @import url(https://fonts.googleapis.com/css?family=Fira+Code);
@@ -158,16 +159,16 @@ body {
 
 h1 {
   margin: auto;
-  color: #578ee6;
+  color: #087F5B;
   font-size: 3em;
   font-weight: bold;
   text-align: center; }
 
 strong {
-  color: #578ee6; }
+  color: #087F5B; }
 
 .link {
-  color: #578ee6;
+  color: #087F5B;
   font-weight: bold;
   text-decoration: none; }
 
@@ -314,7 +315,7 @@ ul.menu li.menu-item a {
 
 .animated-title {
   color: #222;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: East Sea Dokdo, Roboto, Arial, sans-serif;
   height: 90vmin;
   left: 50%;
   top: 50%; }
@@ -325,15 +326,16 @@ ul.menu li.menu-item a {
   position: relative; }
 
 .animated-title > div div {
-  font-size: 12vmin;
-  padding: 2vmin 0; }
+  font-size: 18vmin;
+  padding: 2vmin 0;
+  line-height: 80%; }
 
 .animated-title > div div span {
   display: block; }
 
 .animated-title > div.text-top {
   border-bottom: 1vmin solid #c8cbcf;
-  color: #578ee6;
+  color: #087F5B;
   top: 0; }
 
 .animated-title > div.text-top div {
@@ -352,7 +354,7 @@ ul.menu li.menu-item a {
   animation: showBottomText 0.5s;
   animation-delay: 1.75s;
   animation-fill-mode: forwards;
-  font-size: 8vmin;
+  font-size: 12vmin;
   top: 0;
   transform: translate(0, -100%); }
 
@@ -497,7 +499,7 @@ ul.menu li.menu-item a {
   transition-delay: 0.69s; }
 
 body {
-  color: #7edbf8;
+  color: #4FD2B5;
   margin: 0;
   overflow-x: hidden; }
   body .content {
