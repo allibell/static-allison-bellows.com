@@ -156,6 +156,9 @@ body {
   margin: 0;
   background: #E1E1E1; }
 
+p {
+  line-height: 120%; }
+
 h1 {
   margin: auto;
   color: #6495ED;
@@ -563,8 +566,8 @@ img {
   width: 60vw; }
 
 .window .content .row.ppn {
-  padding: 6% 0;
-  height: 350px; }
+  padding: 4% 0;
+  min-height: 300px; }
 
 .ppns-container {
   padding-bottom: 10%; }
@@ -593,8 +596,7 @@ img {
   align-items: center;
   justify-content: center;
   transition: opacity .5s ease-in-out .5s;
-  font-size: 2vmin;
-  font-weight: bold;
+  font-size: 2.3vmin;
   text-align: center;
   z-index: 1;
   height: 100%;
@@ -694,7 +696,7 @@ img {
   position: relative;
   justify-content: center;
   align-items: center;
-  margin: 2% 5%; }
+  margin: 15px 5%; }
 
 .ppn-image {
   height: 100%;

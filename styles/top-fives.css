@@ -156,6 +156,9 @@ body {
   margin: 0;
   background: #E1E1E1; }
 
+p {
+  line-height: 120%; }
+
 h1 {
   margin: auto;
   color: #6495ED;
@@ -510,7 +513,8 @@ ul.menu li.menu-item a {
   padding-left: 20px;
   font-size: 1.3em;
   margin-inline-end: 1em;
-  white-space: nowrap; }
+  white-space: nowrap;
+  line-height: 150%; }
 
 .category {
   color: #6495ED;
