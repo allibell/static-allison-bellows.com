@@ -158,8 +158,9 @@ body {
 h1 {
   margin: auto;
   color: #6495ED;
-  font-size: 3em;
-  font-weight: bold;
+  font-size: 5em;
+  font-family: "East Sea Dokdo";
+  font-weight: normal;
   text-align: center; }
 
 strong {
@@ -273,7 +274,7 @@ ul.menu li.menu-item a {
   display: block;
   position: relative;
   color: #c8cbcf;
-  font-family: "Ek Mukta", sans-serif;
+  font-family: "Ubuntu Mono";
   font-weight: 100;
   text-decoration: none;
   font-size: 3.5vmin;
@@ -282,7 +283,7 @@ ul.menu li.menu-item a {
   width: 100%; }
 
 .window .content {
-  font-family: "Ek Mukta", sans-serif;
+  font-family: "Ubuntu Mono";
   padding: 67px 4% 0;
   overflow: scroll;
   max-height: -webkit-calc(100% - 50px);
