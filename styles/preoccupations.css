@@ -566,8 +566,9 @@ img {
   width: 60vw; }
 
 .window .content .row.ppn {
-  padding: 4% 0;
-  min-height: 300px; }
+  min-height: 300px;
+  padding-bottom: clamp(40px, 1%, 5%);
+  padding-top: clamp(40px, 1%, 5%); }
 
 .ppns-container {
   padding-bottom: 10%; }
