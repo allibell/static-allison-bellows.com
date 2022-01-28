@@ -682,7 +682,7 @@ img {
   width: fit-content;
   line-height: 80px;
   overflow: hidden;
-  font-size: xx-large;
+  font-size: clamp(1.6rem, 4vmin, 3rem);
   border-right: 8px solid #6495ED;
   margin: 0 auto;
   white-space: nowrap;
