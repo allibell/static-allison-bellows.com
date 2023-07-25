@@ -720,7 +720,8 @@ img {
   text-shadow: 1px 1px 1px #000000; }
 
 .about-books-new {
-  font-size: 4vmin; }
+  font-size: 4vmin;
+  text-shadow: 1px 1px 1px #000000; }
 
 .about-face-auth {
   font-size: 3vmin; }
