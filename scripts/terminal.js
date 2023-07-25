@@ -24,8 +24,8 @@ $(document).ready(function(e) {
 	"present-preoccupations": "What I'm currently up to",
 	"past-preoccupations": "*Highlights* of things I've previously been up to",
 	"top-fives": "Lists of favorites, at least as much for my reference as for yours (like much of this site)",
-	"resume": "Obligatory 🥴 ",
-	"random": "Comics, quotes, dank memes, betas/sandboxes, easter eggs...",
+	// "resume": "Obligatory 🥴 ",
+	"random": "Comics, quotes, pranks, dank memes, betas/sandboxes, easter eggs...",
     };
     var currentpage = "random";
     var url = "https://allison-bellows.com/"
